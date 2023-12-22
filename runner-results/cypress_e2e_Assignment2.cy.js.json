@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2023-12-22T12:39:52.216Z",
+  "duration": 46027,
+  "file": "cypress\\e2e\\Assignment2.cy.js"
+}
